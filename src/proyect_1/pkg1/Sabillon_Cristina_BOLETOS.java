@@ -54,13 +54,6 @@ public class Sabillon_Cristina_BOLETOS {
 
             ventana = scan.next();
 
-            //Restricción
-            while (!ventana.equalsIgnoreCase("a") && !ventana.equalsIgnoreCase("b")
-                    && !ventana.equalsIgnoreCase("c") && !ventana.equalsIgnoreCase("d")) {
-                System.out.println("ERROR. INGRESO INVALIDO. Intente de nuevo");
-                ventana = scan.next();
-            }
-
             //Menu de Boletos Aerios
             if (ventana.equalsIgnoreCase("a")) {
                 System.out.println("\n------------------------------------------------------------------------------------------");
