@@ -42,15 +42,7 @@ public class Sabillon_Cristina_BOLETOS {
 
         //MENU PRINCIPAL
         while (true) {
-            System.out.println("\n------------------------------------------------------------");
-            System.out.println("|                    *****MENU*****                        |");
-            System.out.println("------------------------------------------------------------");
-            System.out.println("| a. Venta de Boletos Aerios                               |");
-            System.out.println("| b. Venta de Paquetes Turisticos                          |");
-            System.out.println("| c. Reportes                                              |");
-            System.out.println("| d. Salir del Sistema                                     |");
-            System.out.println("------------------------------------------------------------");
-            System.out.println("Escribir la letra (a,b,c,d) que corresponde a la opcion que quiere escoger.");
+
 
             ventana = scan.next();
 
