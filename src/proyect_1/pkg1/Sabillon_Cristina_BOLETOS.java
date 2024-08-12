@@ -54,9 +54,8 @@ public class Sabillon_Cristina_BOLETOS {
                 System.out.println("|  Destinos   |       Ciudad, Pais             |               Clase/Precios              |");
                 System.out.println("-------------------------------------------------------------------------------------------");
                 System.out.println("|  A        |  Ciudad de Mexico, Mexico      |       Negocio: L.8,000   Turista: L.5,500  |");
-                System.out.println("|  B        |  San Jose, Costa Rica          |       Negocio: L.7,000   Turista: L.4,800  |");
                 System.out.println("|  C        |  Medellin, Colombia            |       Negocio: L.11,200  Turista: L.8,00   |");
-                System.out.println("|  D        |  Santaiago, Chile              |       Negocio: L.18,000  Turista: L.11,600 |");
+                System.out.println("|  D        |  Santaiago, Chile              |       Negocio---: L.18,000  Turista: L.11,600 |");
                 System.out.println(" -----------------------------------------------------------------------------------------");
                 System.out.println("Escribir la letra (a,b,c,d) que corresponde a la opcion que quiere escoger.");
                 System.out.println("Escibir 'e' para volver al menu.");
