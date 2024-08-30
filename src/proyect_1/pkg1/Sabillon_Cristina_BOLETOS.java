@@ -35,8 +35,7 @@ public class Sabillon_Cristina_BOLETOS {
                 ,recorrido_a=0,recorrido_b=0,recorrido_c=0,recorrido_d=0, total_a=0, 
                 total_b=0, total_c=0, total_d=0, subtotal_a=0,subtotal_b=0,subtotal_c=0,
                 subtotal_d=0,descuento_a=0,descuento_b=0, descuento_b2=0, descuento_b3=0,
-                descuento_c=0, descuento_c2=0,descuento_d=0,
-                monto_a=0,monto_b=0,monto_c=0,monto_d=0;
+                descuento_c=0, descuento_c2=0;
         
         double subtotal = 0, descuento = 0, total;
 
